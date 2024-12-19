@@ -1,0 +1,1 @@
+import{e as s,h as a,o,c as r,a as c,y as l}from"./BfRf0RpK.js";const d={class:"flex flex-col items-center w-full overflow-x-hidden min-h-screen bg-white dark:bg-darkBg"},n={class:"w-full max-w-max-limit"},_={__name:"get-started",setup(i){const e=s();return a(()=>e.path==="/get-started"),(t,m)=>(o(),r("div",d,[c("div",n,[l(t.$slots,"default")])]))}};export{_ as default};
