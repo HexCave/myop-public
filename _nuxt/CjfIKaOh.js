@@ -1,0 +1,1 @@
+import{o as s,c as t,a as r,A as l,p as o}from"./DYkRqgEj.js";const c={class:"w-full max-w-max-limit"},i={__name:"section-layout",props:{bg:{type:String,default:"bg-transparent dark:bg-darkBg"}},setup(e){return(a,n)=>(s(),t("div",{class:o(["flex flex-col items-center w-full dark:bg-darkBg",[e.bg]])},[r("div",c,[l(a.$slots,"default")])],2))}};export{i as _};

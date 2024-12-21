@@ -1,0 +1,2386 @@
+{
+    "result": {
+        "Data": [
+            {
+                "Sub_Category": "Aromatic Woody",
+                "Category": "Fresh",
+                "Mode": "Men",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Unisex",
+                "Code": "162",
+                "Word_Description_3": "Vibrant - Fierce - Intimidating",
+                "Segment": "Regular",
+                "Name": "Ocean Bliss",
+                "Key_Notes_3": "Bergamot - Geranium - Tonka Bean",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "Imagine a tropical paradise where crystal waves caress the shore, and warm sunshine dances across the skin. Ocean Bliss captures the essence of this idyllic escape, blending juicy citrus and spicy blooms with a hint of sultry woods and sweet temptation. As the scent unfolds, the freshness of the ocean air mingles with the warmth of a summer breeze, leaving you feeling seduced, refreshed, and forever chasing the sun.",
+                "Notes": [
+                    {
+                        "Sensation": "Vibrant",
+                        "Type": "Top",
+                        "Scent": "Sunny",
+                        "Note": "Green Apple\nBergamot\nGrapefruit"
+                    },
+                    {
+                        "Sensation": "Fierce",
+                        "Type": "Middle",
+                        "Scent": "Bold",
+                        "Note": "Cinnamon\nGeranium\nMint"
+                    },
+                    {
+                        "Sensation": "Intimidating",
+                        "Type": "Base",
+                        "Scent": "Seductive ",
+                        "Note": "Oakmoss\nTonka Bean\nVetiver"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "Sea, sun, and seduction in a bottle. Ocean Bliss whisks you away to a tropical paradise, where juicy citrus and spicy blooms dance on the skin, leaving a trail of sultry woods and sweet temptation."
+            },
+            {
+                "Sub_Category": "Amber floral",
+                "Category": "Oriental",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Unisex",
+                "Code": "158",
+                "Word_Description_3": "Lush - Alluring - Seductive",
+                "Segment": "Regular",
+                "Name": "Fabulous",
+                "Key_Notes_3": "Saffron - Rose - Amber",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "Fabulous is not just a scent; it's an experience that transforms your presence into a statement of elegance and charm. Indulge in the captivating allure of Fabulous and let its enchanting melody leave an unforgettable impression.",
+                "Notes": [
+                    {
+                        "Sensation": "Exotic",
+                        "Type": "Top",
+                        "Scent": "Citrus, Spicy",
+                        "Note": "Saffron\nJasmine"
+                    },
+                    {
+                        "Sensation": "Captivating , Lush",
+                        "Type": "Middle",
+                        "Scent": "Fruity , Floral",
+                        "Note": "Amberwood\nAmbergris"
+                    },
+                    {
+                        "Sensation": "Alluring , Seductive",
+                        "Type": "Base",
+                        "Scent": "Balsamic,  Amber",
+                        "Note": "Fir Resin\nCedar"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "Experience the captivating allure of Fabulous, where vibrant florals bloom into a lush and elegant embrace."
+            },
+            {
+                "Sub_Category": "Fruity Floral",
+                "Category": "Floral",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "160",
+                "Word_Description_3": "",
+                "Segment": "Regular",
+                "Name": "Secret Story",
+                "Key_Notes_3": "Litchi - Rose - Vanilla",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "An experience akin to a vibrant burst of youth with its lively berries. As it settles, the heart notes delicately allure, weaving a captivating and tender embrace. Finally, the base notes of the musky vanilla cocoon you in a lush, comforting warmth like a cosy blanket.",
+                "Notes": [
+                    {
+                        "Sensation": "Vibrant , Youthful",
+                        "Type": "Top",
+                        "Scent": "Fruity , Bubblegum",
+                        "Note": "Litchi\nRed Berry\nCassis"
+                    },
+                    {
+                        "Sensation": "Alluring , Delicate",
+                        "Type": "Middle",
+                        "Scent": "Floral , Aqueous",
+                        "Note": "Peony\nMuguet\nRose"
+                    },
+                    {
+                        "Sensation": "Cocooning , Lush",
+                        "Type": "Base",
+                        "Scent": "Powdery, Balsamic, Gourmand",
+                        "Note": "Musk\nVanilla\nVetiver"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A fragrance of enchantment, unfolding a tale of mystery and allure with each spritz."
+            },
+            {
+                "Sub_Category": "Amber woody",
+                "Category": "Oriental",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Unisex",
+                "Code": "159",
+                "Word_Description_3": "Fierce - Euphoric - Oriental",
+                "Segment": "Regular",
+                "Name": "Midnight Velvet",
+                "Key_Notes_3": "Mulberry - Rose - Agarwood",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "The night sky and the cold that settles in can only be described as bliss. Midnight Velvet encapsulates the gradual tones of calmness like the veil of tranquility that is swept by the warm winds. It incorporates a magical swirl of floral sweetness with an emphasis on oriental delight.</span><br /></div>",
+                "Notes": [
+                    {
+                        "Sensation": "Bold Fierce",
+                        "Type": "Top",
+                        "Scent": "Fruity",
+                        "Note": "Mulberry \nSaffron\nLemon"
+                    },
+                    {
+                        "Sensation": "Euphoric , Enchanting",
+                        "Type": "Middle",
+                        "Scent": "Floral,  balsamic",
+                        "Note": "Honey\nIris\nRose"
+                    },
+                    {
+                        "Sensation": "Enticing, Lush",
+                        "Type": "Base",
+                        "Scent": "Amber, Woody",
+                        "Note": "Agarwood\nPatchouli\nAmber"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "The breeze from the East has brought warm earthy scents with breathtaking lusciousness to you in this captivating fragrance."
+            },
+            {
+                "Sub_Category": "Amber woody",
+                "Category": "Woody",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 3,
+                "Gender": "Unisex",
+                "Code": "157",
+                "Word_Description_3": "Hypnotic - Enchanting - Bold",
+                "Segment": "Regular",
+                "Name": "Oud for Greatness",
+                "Key_Notes_3": "Raspberry - Saffron - Agarwood",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "Oud For Greatness captivates with a profound woody essence, an enchanting fragrance that evokes timeless sophistication and a sense of unparalleled allure to elevate your senses. This perfume, an ode to sophistication, emanates a timeless allure that resonates with the embodiment of greatness.",
+                "Notes": [
+                    {
+                        "Sensation": "Hypnotic, Elevating",
+                        "Type": "Top",
+                        "Scent": "Floral, Fruity",
+                        "Note": "Raspberry\nSaffron"
+                    },
+                    {
+                        "Sensation": "Enchanting",
+                        "Type": "Middle",
+                        "Scent": "Aromatic , Floral",
+                        "Note": "Rose\nGeranium\nLily"
+                    },
+                    {
+                        "Sensation": "Bold, Mysterious",
+                        "Type": "Base",
+                        "Scent": "Balsamic , Amber",
+                        "Note": "Oud\nAmberwood\nBenzoin"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "Embrace the enchanting allure of a woody fragrance, its warm notes evoke a cosy, comforting embrace, leaving an unforgettable impression."
+            },
+            {
+                "Sub_Category": "Amber spicy",
+                "Category": "Oriental",
+                "Mode": "NIght",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Unisex",
+                "Code": "156",
+                "Word_Description_3": "Exotic - Liberating - Daring",
+                "Segment": "Regular",
+                "Name": "One of a Kind",
+                "Key_Notes_3": "Coconut - Gardenia - Olibanum",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "The scent of a lover of adventure and mystery, if you are someone who is confident about being different from others, then you have found the right scent. One Of A Kind is specially blended for those who own a strong spirit and exude superior aura. The combination of calm oriental notes with fierce woody notes is assured to make everyone's head turn.",
+                "Notes": [
+                    {
+                        "Sensation": "Spontaneous",
+                        "Type": "Top",
+                        "Scent": "Exotic Fruity",
+                        "Note": "Orange\nCoconut\nCardamom"
+                    },
+                    {
+                        "Sensation": "Liberating",
+                        "Type": "Middle",
+                        "Scent": "Spicy Floral",
+                        "Note": "Gardenia\nRose\nTuberose"
+                    },
+                    {
+                        "Sensation": "Daring",
+                        "Type": "Base",
+                        "Scent": "Balsamic Amber",
+                        "Note": "Vanilla\nAmber\nOlibanum"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "To the unbreakable you, an ode in a bottle. One Of A Kind, exclusively to embrace your individuality."
+            },
+            {
+                "Sub_Category": "Aromatic Woody",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 3,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "155",
+                "Word_Description_3": "Vitalizing - Elevating - Ecstasy",
+                "Segment": "Regular",
+                "Name": "Nightfall",
+                "Key_Notes_3": "Bergamot - Elemi - Birch",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "When the day marks its end, the illumination of a new dusk arises. With the complex entanglement of zesty citrus top notes and provocative yet delicate base notes of vanilla and musk, Nightfall gives you an irresistible charm in the form of perfume. This scent has perfectly captured the throb of dusk till dawn and will perfectly suit seekers of uniqueness in the perfume world.</span><br /></div>",
+                "Notes": [
+                    {
+                        "Sensation": "Vitalising",
+                        "Type": "Top",
+                        "Scent": "Spicy , Citrus",
+                        "Note": "Lemon\nPineapple\nBergamot"
+                    },
+                    {
+                        "Sensation": "Elevating",
+                        "Type": "Middle",
+                        "Scent": "Citrus Floral",
+                        "Note": "Elemi\nJasmine\nRose"
+                    },
+                    {
+                        "Sensation": "Ecstasy",
+                        "Type": "Base",
+                        "Scent": "Earthy , Woody",
+                        "Note": "Patchouli\nBirch\nAmbergris"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "A tango of sweet, sensual and sylvan scents, Nightfall enraptures the nocturnal beauty into a charming fragrance."
+            },
+            {
+                "Sub_Category": "Fruity Ambery",
+                "Category": "Floral",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 3,
+                "Gender": "Unisex",
+                "Code": "154",
+                "Word_Description_3": "Tarty - Vibrant - Mesmerizing",
+                "Segment": "Regular",
+                "Name": "Vegas Vibes",
+                "Key_Notes_3": "Passionfruit - Blackberry - Caramel",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "To the unstoppable soul of a partygoer, Vegas Vibes basks the intoxicating zest of the City with a cleverly crafted arrangement of scents. A fusion of sensual top notes with tranquillizing middle and base notes makes this fragrance irresistibly essential. What happens in Vegas doesn't have to stay in Vegas; grab a whiff of it through Vegas Vibes.",
+                "Notes": [
+                    {
+                        "Sensation": "Powerful , Freshness",
+                        "Type": "Top",
+                        "Scent": "Zesty,  Tangy",
+                        "Note": "Bergamot\nLemon"
+                    },
+                    {
+                        "Sensation": "Vibrant",
+                        "Type": "Middle",
+                        "Scent": "Tarty, Juicy",
+                        "Note": "Passionfruit\nBlackberry"
+                    },
+                    {
+                        "Sensation": "Intense, Mesmerizing",
+                        "Type": "Base",
+                        "Scent": "Amber, Sweet",
+                        "Note": "Caramel\nVanilla"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "The scent of a City that never sleeps, Vegas Vibes harbours the core of a party animal."
+            },
+            {
+                "Sub_Category": "Fruity Amber",
+                "Category": "Woody",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Unisex",
+                "Code": "153",
+                "Word_Description_3": "Exotic - Fearless - Mysterious",
+                "Segment": "Regular",
+                "Name": "Purple Mystique",
+                "Key_Notes_3": "Nectarine - Lavender - Oudh",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "A truly magical fragrance that transports the wearer to a world of enchantment and mystique. Its name was inspired by the mysterious nature of the color purple, which has long been associated with royalty and luxury. Purple mystique is a rich and mesmerizing fragrance that has all great qualities of the oriental perfume category",
+                "Notes": [
+                    {
+                        "Sensation": "Exotic",
+                        "Type": "Top",
+                        "Scent": "Tropical, Fruit",
+                        "Note": "Nectarine\nOrange\nPineapple"
+                    },
+                    {
+                        "Sensation": "Enchanting",
+                        "Type": "Middle",
+                        "Scent": "Aromatic , Floral",
+                        "Note": "Lavender\nJasmine\nRose"
+                    },
+                    {
+                        "Sensation": "Bold, Mysterious",
+                        "Type": "Base",
+                        "Scent": "Balsamic , Amber",
+                        "Note": "Agarwood\nVanilla\nAmber"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "An oriental perfume that captivates with its intriguing blend of spices and florals."
+            },
+            {
+                "Sub_Category": "Floral ambery",
+                "Category": "Floral",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "149",
+                "Word_Description_3": "Sparkling - Luminous - Chic",
+                "Segment": "Regular",
+                "Name": "Urban Chic",
+                "Key_Notes_3": "Orange - Jasmine - Caramel",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "Where elegance meets edginess, Urban Chic is born. Ideal for someone who is always on the go, and enjoys the fast-paced lifestyle of the city while valuing individuality.  The name 'Urban Chic' represents the perfect balance between sophistication and edge, making it the ultimate fragrance for the urban fashionista.",
+                "Notes": [
+                    {
+                        "Sensation": "Sparkling",
+                        "Type": "Top",
+                        "Scent": "Juicy ,  Citrus",
+                        "Note": "Orange\nGinger"
+                    },
+                    {
+                        "Sensation": "Luminous, Radiant",
+                        "Type": "Middle",
+                        "Scent": "Rich , Creamy , Florals",
+                        "Note": "Jasmine\nTuberose"
+                    },
+                    {
+                        "Sensation": "Delicious , Chic",
+                        "Type": "Base",
+                        "Scent": "Sweet , Amber",
+                        "Note": "Caramel\nCederwood"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "An oriental blend with notes of mandarin orange yoked together with jasmine & caramel; 'Urban Chic' is an exclusive choice of the glamorous socialite."
+            },
+            {
+                "Sub_Category": "Fruity Floral",
+                "Category": "Floral",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 3,
+                "Gender": "Women",
+                "Code": "147",
+                "Word_Description_3": "Femme - Sophisticated - Soulful",
+                "Segment": "Regular",
+                "Name": "Madras Malar",
+                "Key_Notes_3": "Pear - Lily - Musk",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "A mesmerizing journey through the aromatic gardens of Madras, surrounded by the sweet scents of blooming flowers and ripe fruits. With a fascinating medley of exotic and familiar accords, Madras Malar is especially suitable for daytime wear. A fragrant miracle of the floral scent family, it will bless your spring and summer days by complementing the vibrant and colourful nature of the season.",
+                "Notes": [
+                    {
+                        "Sensation": "Elegant",
+                        "Type": "Top",
+                        "Scent": "Fruity,  Ozonic",
+                        "Note": "Apple\nPear"
+                    },
+                    {
+                        "Sensation": "Light , Sophisticated",
+                        "Type": "Middle",
+                        "Scent": "Floral,  Transparent",
+                        "Note": "Lily Of The Valley\nJasmine"
+                    },
+                    {
+                        "Sensation": "Pure , Soulful",
+                        "Type": "Base",
+                        "Scent": "Clean,  Powdery",
+                        "Note": "White Musks"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "The harbinger of a festival clad in white; 'Madras Malar' is a fascinating mix of jasmine, pear and musk."
+            },
+            {
+                "Sub_Category": "Ambery Woody ",
+                "Category": "Oriental",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 3,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "146",
+                "Word_Description_3": "Warm - Classic - Tempting",
+                "Segment": "Regular",
+                "Name": "Calicut Spice",
+                "Key_Notes_3": "Cardamom - Cinnamon - Tonka",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "With its unique blend of spice and fruit notes, this oriental fragrance is inspired by the rich history of the coastal town of Calicut, which was once a hub of the spice trade. Its unique accords will make it a worthy choice for a signature scent, one that sets you apart from the crowd. Its name is a tribute to this humble town and its contribution to the world of fragrances.",
+                "Notes": [
+                    {
+                        "Sensation": "Warmth,  Assurance",
+                        "Type": "Top",
+                        "Scent": "Fruity, Spicy",
+                        "Note": "Cardamom\nCinnamon"
+                    },
+                    {
+                        "Sensation": "Classic , Elegance",
+                        "Type": "Middle",
+                        "Scent": "Fresh ,  Woody",
+                        "Note": "Lavender\nCedarwood"
+                    },
+                    {
+                        "Sensation": "Lush,  Tempting",
+                        "Type": "Base",
+                        "Scent": "Amber , Sweet",
+                        "Note": "Vanilla\nTonka Bean"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "A nostalgic tribute to the 'City of spices' curated through a mix of cinnamon, cardamom and woody notes; smells just like home!          "
+            },
+            {
+                "Sub_Category": "Fruity Floral",
+                "Category": "Floral",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "145",
+                "Word_Description_3": "Vibrant - Lush - Velvet",
+                "Segment": "Regular",
+                "Name": "Bangalore Bloom",
+                "Key_Notes_3": "Mango - Peony - Coconut",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "An exquisite choice for someone who adores sweet and citrusy blends, Bangalore Bloom, is the absolute summer scent. Its crisp, clean aroma is perfect for any occasion, whether you're dressing up or keeping it casual. Its name reminds us of a city that is constantly growing and blooming, much like the perfume's scent that evolves over time.",
+                "Notes": [
+                    {
+                        "Sensation": "Youthful,  Vibrant",
+                        "Type": "Top",
+                        "Scent": "Milky , Fruity",
+                        "Note": "Mango\nBlood Orange"
+                    },
+                    {
+                        "Sensation": "Delicate",
+                        "Type": "Middle",
+                        "Scent": "Watery , Floral",
+                        "Note": "Waterlily\nPeony"
+                    },
+                    {
+                        "Sensation": "Lush , Velvet",
+                        "Type": "Base",
+                        "Scent": "Creamy",
+                        "Note": "Coconut\nWhite Musk"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A sweet love letter to the city of Bangalore enveloped in the aroma of mango, water lily & coconut."
+            },
+            {
+                "Sub_Category": "",
+                "Category": "Woody",
+                "Mode": "",
+                "Images": [],
+                "Gender": "Male",
+                "Code": "143",
+                "Segment": "Regular",
+                "Name": "Bombay Black",
+                "Pricing": [
+                    {
+                        "100ml": 2499,
+                        "Type": "Airport",
+                        "50ml": 1349,
+                        "30ml": 879,
+                        "100ml HandEngraved": 3299,
+                        "100ml Personalised": 2999
+                    },
+                    {
+                        "100ml": 2299,
+                        "Type": "Mall",
+                        "50ml": 1279,
+                        "30ml": 829,
+                        "100ml HandEngraved": 3099,
+                        "100ml Personalised": 2799
+                    }
+                ],
+                "Notes": [
+                    {
+                        "Sensation": "",
+                        "Type": "Top",
+                        "Scent": "",
+                        "Note": "Lime\nBergamot"
+                    },
+                    {
+                        "Sensation": "",
+                        "Type": "Middle",
+                        "Scent": "",
+                        "Note": "Violet Leaf\nOlibanum\nMyrrh"
+                    },
+                    {
+                        "Sensation": "",
+                        "Type": "Base",
+                        "Scent": "",
+                        "Note": "Patchouli\nLeather\nSandalwood"
+                    }
+                ]
+            },
+            {
+                "Sub_Category": "Floral Amber",
+                "Category": "Floral",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 3,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "137",
+                "Word_Description_3": "Playful - Opulent - Sensual",
+                "Segment": "Regular",
+                "Name": "Florence",
+                "Key_Notes_3": "Cherry - Lily - Patchouli",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "With its floral and fresh accords, Florence is ideal for spring and summer, and its warm and comforting base notes make it suitable for the cool winter months.  Florence is also a city that has been associated with love and romance, making it the perfect name for a perfume that embodies those same qualities. With Florence, you can carry a piece of this historic and romantic city with you wherever you go.",
+                "Notes": [
+                    {
+                        "Sensation": "Edible, Playful , Sparkle",
+                        "Type": "Top",
+                        "Scent": "Rich , Fruity",
+                        "Note": "Almond\nCherry\nMandarin"
+                    },
+                    {
+                        "Sensation": "Elegant, Opulant",
+                        "Type": "Middle",
+                        "Scent": "Creamy , Floral",
+                        "Note": "Tuberose\nLily\nJasmine"
+                    },
+                    {
+                        "Sensation": "Sensual, Exhilarating",
+                        "Type": "Base",
+                        "Scent": "Gourmand,  Amber",
+                        "Note": "Amber\nPatchouli"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "A wild & hedonic fragrance designed for the modern-day femme fetale; enriched with cherry, tuberose and patchouli."
+            },
+            {
+                "Sub_Category": "Leathery Amber",
+                "Category": "Woody",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 5,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "136",
+                "Word_Description_3": "Fearless - Mysterious - Sultry",
+                "Segment": "Regular",
+                "Name": "Pablo",
+                "Key_Notes_3": "Raspberry - Saffron - Leather",
+                "Pricing": [
+                    {
+                        "100ml": 2499,
+                        "Type": "Airport",
+                        "50ml": 1349,
+                        "30ml": 879,
+                        "100ml HandEngraved": 3299,
+                        "100ml Personalised": 2999
+                    },
+                    {
+                        "100ml": 2299,
+                        "Type": "Mall",
+                        "50ml": 1279,
+                        "30ml": 829,
+                        "100ml HandEngraved": 3099,
+                        "100ml Personalised": 2799
+                    }
+                ],
+                "Long_Description": "Daring you to enjoy every moment of life, Pablo is a fragrance that celebrates individuality, just like the iconic artist himself.  The warm and inviting scent is ideal for formal events, while the spicy notes make it a great choice for a romantic evening. Like the artist himself, this fragrance embodies a sense of individuality and originality, making it the perfect choice for someone with a unique sense of style and sophistication.",
+                "Notes": [
+                    {
+                        "Sensation": "Addictive",
+                        "Type": "Top",
+                        "Scent": "Fruity Green",
+                        "Note": "Raspberry"
+                    },
+                    {
+                        "Sensation": "Sultry",
+                        "Type": "Middle",
+                        "Scent": "Spicy",
+                        "Note": "Saffron"
+                    },
+                    {
+                        "Sensation": "Mysterious , Fearless",
+                        "Type": "Base",
+                        "Scent": "Suede Wood",
+                        "Note": "Ambery Wood\n Leather"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "In 'Pablo', the inviting raspberry & saffron meets with fragrant ambery wood & leather to create a blend that is humble yet legendary."
+            },
+            {
+                "Sub_Category": "Citrus Woody",
+                "Category": "Fresh",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Men",
+                "Code": "135",
+                "Word_Description_3": "Crisp - Energizing - Youthful",
+                "Segment": "Regular",
+                "Name": "Ibiza",
+                "Key_Notes_3": "Mandarin - Cedarwood - Patchouli",
+                "Pricing": [
+                    {
+                        "100ml": 2499,
+                        "Type": "Airport",
+                        "50ml": 1349,
+                        "30ml": 879,
+                        "100ml HandEngraved": 3299,
+                        "100ml Personalised": 2999
+                    },
+                    {
+                        "100ml": 2299,
+                        "Type": "Mall",
+                        "50ml": 1279,
+                        "30ml": 829,
+                        "100ml HandEngraved": 3099,
+                        "100ml Personalised": 2799
+                    }
+                ],
+                "Long_Description": "Whether you're lounging on the beach or dancing the night away, this fragrance will ensure you'll have a great time. An oriental fragrance, best suited for women who want to add a touch of exotic. Named after the stunning coastal island known for its lively nightlife, breathtaking beaches, and crystal-clear waters, Ibiza stands for freedom, passion, and adventure.",
+                "Notes": [
+                    {
+                        "Sensation": "Energetic , Freshness",
+                        "Type": "Top",
+                        "Scent": "Tarty Citrus",
+                        "Note": "Mandarin Orange\nLemon"
+                    },
+                    {
+                        "Sensation": "Elegant",
+                        "Type": "Middle",
+                        "Scent": "Soft Wood",
+                        "Note": "Cederwood\nPepper"
+                    },
+                    {
+                        "Sensation": "Tender, Care",
+                        "Type": "Base",
+                        "Scent": "Powdery",
+                        "Note": "Patchouli\nSandalwood"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "With notes of Lemon, Pepper & Texas cedar, 'Ibiza' will take you on an aromatic journey to the exotic Mediterranean."
+            },
+            {
+                "Sub_Category": "Floral Amber",
+                "Category": "Floral",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Women",
+                "Code": "134",
+                "Word_Description_3": "Daring - Enticing - Bold",
+                "Segment": "Regular",
+                "Name": "Queen",
+                "Key_Notes_3": "Raspberry - Tuberose -Amber",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "For the woman who knows her worth and isn't afraid to show it, Queen is a fragrance that empowers the wearer with a sense of regality. Its name is suggestive of the historic tradition of using fragrances as a symbol of royalty and greatness. Apt for any occasion that calls for a touch of grace and glamour, it is designed to make you feel empowered &amp; confident.",
+                "Notes": [
+                    {
+                        "Sensation": "Spontaneous",
+                        "Type": "Top",
+                        "Scent": "Fruity ",
+                        "Note": "Lemon\nRaspberry"
+                    },
+                    {
+                        "Sensation": "Daring",
+                        "Type": "Middle",
+                        "Scent": "Spicy , Floral",
+                        "Note": "Jasmine\nRose\nTuberose"
+                    },
+                    {
+                        "Sensation": "Enticing , Alluring",
+                        "Type": "Base",
+                        "Scent": "Creamy , Musk",
+                        "Note": "Amber\nPatchouli\nMusk"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A rendezvous of raspberry, amber & Arabian jasmine; the perfect invisible accessory and final touch to a women's ensemble."
+            },
+            {
+                "Sub_Category": "Aromatic Woody",
+                "Category": "Fresh",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "132",
+                "Word_Description_3": "Energizing - Clean - Poise",
+                "Segment": "Regular",
+                "Name": "Blue",
+                "Key_Notes_3": "Pink pepper - Grapefruit - Vetiver",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "Inspired by the endless blue waters of the ocean and the refreshing sea breeze, Blue is the ticket to a revitalizing aromatic experience. This fresh scent is perfect for kickstarting your day and evoking the freshness of the great outdoors, even during indoor activities like work. Whether you're stepping out for a day at the beach or simply running errands, Blue assures a reviving burst of energy that lasts all day long.",
+                "Notes": [
+                    {
+                        "Sensation": "Fresh,  Energetic",
+                        "Type": "Top",
+                        "Scent": "Zesty,  Sparkling",
+                        "Note": "Pink Pepper\nGrapefruit"
+                    },
+                    {
+                        "Sensation": "Clean",
+                        "Type": "Middle",
+                        "Scent": "Aromatic , Green",
+                        "Note": "Lavender\nTarragon"
+                    },
+                    {
+                        "Sensation": "Sophisticated , Poise",
+                        "Type": "Base",
+                        "Scent": "Round , Soft Wood",
+                        "Note": "Sandalwood\nVetiver"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "An effortlessly intriguing masculine fragrance with a dynamic combination of tarragon, sandalwood,  grapefruit & pink pepper."
+            },
+            {
+                "Sub_Category": "Amber spicy",
+                "Category": "Oriental",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "130",
+                "Word_Description_3": "Power - Spice - Tempting",
+                "Segment": "Regular",
+                "Name": "Men's Code",
+                "Key_Notes_3": "Bergamot - Lavender - Tobacco",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "A versatile fragrance for you to express your unique personality and style. Whether you're heading to the office or out on a date, this fragrance is the perfect finishing touch to any outfit. Inspired by the idea that every man has his own personal code, this fragrance is designed to enhance the natural scent of a man while also adding a touch of mystery and allure",
+                "Notes": [
+                    {
+                        "Sensation": "Power",
+                        "Type": "Top",
+                        "Scent": "Aromatic Zestiness",
+                        "Note": "Lemon\nLavender\nBergamot"
+                    },
+                    {
+                        "Sensation": "Alluring",
+                        "Type": "Middle",
+                        "Scent": "spicy",
+                        "Note": "Star Anise\nRose"
+                    },
+                    {
+                        "Sensation": "Tempting , Seductive",
+                        "Type": "Base",
+                        "Scent": "Balsamic , Animalic",
+                        "Note": "Tonka Bean\nTobacco\nLeather"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "Capturing the alluring essence of a true modern oriental fragrance, 'Men's Code' is a mélange of bergamot, leather & tobacco."
+            },
+            {
+                "Sub_Category": "Ambery Floral",
+                "Category": "Oriental",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Women",
+                "Code": "129",
+                "Word_Description_3": "Seductive - Charismatic - Addictive",
+                "Segment": "Regular",
+                "Name": "Venom",
+                "Key_Notes_3": "Cherry - Rose - Tonka",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "An exotic and seductive oriental fragrance that can do wonders for anyone looking to add a touch of mystery and sensuality to their scent collection. The inspiration behind Venom comes from the temptation of danger and the excitement of the unknown. For when you wear Venom, you're not just wearing a perfume - you're wearing a mindset.",
+                "Notes": [
+                    {
+                        "Sensation": "Lush, Intoxicating",
+                        "Type": "Top",
+                        "Scent": "Fruity",
+                        "Note": "Bitter Almond\nCherry"
+                    },
+                    {
+                        "Sensation": "Charismatic",
+                        "Type": "Middle",
+                        "Scent": "Powdery Floral,  Solar",
+                        "Note": "Rose\nOrange Blossom"
+                    },
+                    {
+                        "Sensation": "Addictive",
+                        "Type": "Base",
+                        "Scent": "Sweet Amber",
+                        "Note": "Tonka Bean\nVanilla"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "A rich combination of precious raw ingredients like Sicilian bitter almond, Damascus rose & Venezuelan tonka bean; 'Venom' is a blend you can't refuse."
+            },
+            {
+                "Sub_Category": "Aquatic Floral",
+                "Category": "Floral",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 3,
+                "Gender": "Women",
+                "Code": "127",
+                "Word_Description_3": "Tender - Elegant - Lush",
+                "Segment": "Regular",
+                "Name": "Crystal",
+                "Key_Notes_3": "Pomegranate - Peony - Musk",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "A dream come true for any perfume lover who craves the essence of springtime in a bottle, Crystal is a subtle and refined scent that is ideal for those who prefer gentle fragrances. Additionally, its light floral notes make it a gorgeous addition to your travel bag, perfect for the spring and summer seasons. The name Crystal is often associated with luxury and sophistication, making it the ideal choice for anyone who wants to feel effortlessly elegant.",
+                "Notes": [
+                    {
+                        "Sensation": "Vibrant",
+                        "Type": "Top",
+                        "Scent": "Red Fruits",
+                        "Note": "Pomogranate\nBerry"
+                    },
+                    {
+                        "Sensation": "Tender , Elegant",
+                        "Type": "Middle",
+                        "Scent": "Aquatic Floral",
+                        "Note": "Rose\nPeony\nLily"
+                    },
+                    {
+                        "Sensation": "Lush",
+                        "Type": "Base",
+                        "Scent": "Amber Balsamic",
+                        "Note": "Amber\nMusk\nCedar"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "A floral fragrance drawn from pomegranate, red berries & fresh peony; 'Crystal' is bound to make the wearer dazzle."
+            },
+            {
+                "Sub_Category": "Aquatic Woody",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "123",
+                "Word_Description_3": "Clean - Vivid - Sensual",
+                "Segment": "Regular",
+                "Name": "Inglorious",
+                "Key_Notes_3": "Grapefruit - Watermelon - Seaweed",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "A fragrance from the scent family of fresh is a must-have in the perfume collection for someone who loves crisp and clean fragrances. Whether you're headed to work or a workout, Inglorious will keep you feeling lively and confident all day long. This perfume celebrates the uniqueness and individuality of each person and encourages them to be unapologetically themselves.",
+                "Notes": [
+                    {
+                        "Sensation": "Fresh,  Clean",
+                        "Type": "Top",
+                        "Scent": "Citrus , Green",
+                        "Note": "Lime\nGrapefruit"
+                    },
+                    {
+                        "Sensation": "Bright , Playful",
+                        "Type": "Middle",
+                        "Scent": "Fruity,  Aqua",
+                        "Note": "Watermelon"
+                    },
+                    {
+                        "Sensation": "Sensual , Exhilarating",
+                        "Type": "Base",
+                        "Scent": "Marine , Salty",
+                        "Note": "Seaweed\nAmbergris"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A harmonious union of citrus, and aromatic accords, 'Inglorious' guarantees a fresh start for the go-getter in you."
+            },
+            {
+                "Sub_Category": "Aromatic woody ",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Men",
+                "Code": "116",
+                "Word_Description_3": "Sultry - Bold - Energising ",
+                "Segment": "Regular",
+                "Name": "The Valentine",
+                "Key_Notes_3": "Elemi - Lavender - Patchouli",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "This fragrance is an obvious pick for anyone looking to add a touch of romance to their life. The Valentine is an ideal choice for a romantic getaway or even a date night. Its name 'The Valentine' is all about the feeling of love, passion, and romance - just like the fragrance itself.",
+                "Notes": [
+                    {
+                        "Sensation": "Energizing",
+                        "Type": "Top",
+                        "Scent": "Spicy , Citrus",
+                        "Note": "Bergamot\nPepper"
+                    },
+                    {
+                        "Sensation": "Clean, Bold",
+                        "Type": "Middle",
+                        "Scent": "Aromatic Fougere",
+                        "Note": "Lavender\nVetiver\nElemis"
+                    },
+                    {
+                        "Sensation": "Sultry, Sensual",
+                        "Type": "Base",
+                        "Scent": "Amber Woody",
+                        "Note": "Amber\nCedar\nPatchouli"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "With a hint of sour, a dash of spice, and lots of sweetness, 'Valentine' is just like a tale of love."
+            },
+            {
+                "Sub_Category": "Fruity Floral",
+                "Category": "Floral",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Women",
+                "Code": "119",
+                "Word_Description_3": "Radiant - Playful - Floral ",
+                "Segment": "Regular",
+                "Name": "She",
+                "Key_Notes_3": "Blackcurrant - Rose - Vanilla",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "A fragrance that allows your inner goddess to shine through, She is a fragrance that celebrates the bold and beautiful modern urban woman. With an alluring feminine energy in every breath, you can feel confident in your own skin with She by your side. In a collection designed to inspire individuality and elegance, She is no exception.",
+                "Notes": [
+                    {
+                        "Sensation": "Playful",
+                        "Type": "Top",
+                        "Scent": "Pulpy Fruitiness",
+                        "Note": "Grape\nBlackcurrant"
+                    },
+                    {
+                        "Sensation": "Graceful, Radiant",
+                        "Type": "Middle",
+                        "Scent": "Fruity floral",
+                        "Note": "Rose\nLily\nPeony"
+                    },
+                    {
+                        "Sensation": "Soulful",
+                        "Type": "Base",
+                        "Scent": "Gourmand Woody",
+                        "Note": "Amber\nBalsamic\nPatchouli"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A subtle invitation wrapped in vanilla, aromatic & soft spicy accords, 'She' is nothing less than a quintessential feminine fragrance"
+            },
+            {
+                "Sub_Category": "Floral Marine",
+                "Category": "Fresh",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 3,
+                "Gender": "Unisex",
+                "Code": "118",
+                "Word_Description_3": "Refreshing - Delicate - Paradise ",
+                "Segment": "Regular",
+                "Name": "Aqua Game",
+                "Key_Notes_3": "Lemon - Neroli - Lily",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "A fresh fragrance to take along on your next aquatic adventure! Aqua Game is a rejuvenating scent that's great to surround yourself with in your me-time massages and bubble baths. An exceptional choice for those who love the outdoors; Its name reminds us of the sea, waves crashing against the shore, and the excitement of exploration",
+                "Notes": [
+                    {
+                        "Sensation": "Refreshing",
+                        "Type": "Top",
+                        "Scent": "Sparkling,  Citrus",
+                        "Note": "Lemon\nOrange"
+                    },
+                    {
+                        "Sensation": "Clean , Delicate , Fresh",
+                        "Type": "Middle",
+                        "Scent": "Aquatic , Floral",
+                        "Note": "Water Lily\nSage\nNeroli"
+                    },
+                    {
+                        "Sensation": "Paradise",
+                        "Type": "Base",
+                        "Scent": "Soft Musk",
+                        "Note": "Cedar\nSandalwood\nMusk"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "A combo of ozonic & fruity notes, that can bring you the feeling of cool sea waves embracing your skin on a sultry afternoon."
+            },
+            {
+                "Sub_Category": "Aromatic woody Amber",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Men",
+                "Code": "115",
+                "Word_Description_3": "Classy - Aromatic - Sophisticated ",
+                "Segment": "Regular",
+                "Name": "The Legend",
+                "Key_Notes_3": "Bergamot - Lavender - Ambergris",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "The Legend will add the 'class' in classic, every time you put on a suit. Whether you're heading to a business meeting or a night out, this perfume will add a touch of warm sophistication to your style, leaving you feeling confident. The name 'Legend'  inspires a sense of greatness,<br />&nbsp;power, and timeless elegance.",
+                "Notes": [
+                    {
+                        "Sensation": "Playful , Clean",
+                        "Type": "Top",
+                        "Scent": "Zesty , Tropical Fruity",
+                        "Note": "Bergamot\nPineapple"
+                    },
+                    {
+                        "Sensation": "Energizing",
+                        "Type": "Middle",
+                        "Scent": "Aromatic",
+                        "Note": "Lavender"
+                    },
+                    {
+                        "Sensation": "Sensual",
+                        "Type": "Base",
+                        "Scent": "Mossy , Salty",
+                        "Note": "Oakmoss\nAmbergris"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "With its unique fusion of sweet & spice, the 'legend' guarantees you the best of both worlds."
+            },
+            {
+                "Sub_Category": "Citrus Aromatic",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/guilt_for_men_db653709-2ed6-419e-b778-2c42f97a9525.webp?v=1718870939",
+                        "Name": "Primary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/guilt_for_men_notes.webp?v=1721709546",
+                        "Name": "Secondary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/guilt_for_men_sensation.webp?v=1721709546",
+                        "Name": "Tertiary"
+                    }
+                ],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "114",
+                "Word_Description_3": "Fresh - Calm - Revigorating",
+                "Segment": "Regular",
+                "Name": "Guilt for Men",
+                "Key_Notes_3": "Lemon - Orange Flower - Patchouli",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "With its bold and captivating scent, 'Guilt for Men' allows you to showcase your individuality through fragrance. Whether you are headed to work, on a romantic date with that special someone, or casually meeting friends for drinks, this fragrance is sure to never disappoint. As a versatile fragrance that can be worn year-round, 'Guilt for Men' is a staple in any man's fragrance collection.",
+                "Notes": [
+                    {
+                        "Sensation": "Purifying , Freshness",
+                        "Type": "Top",
+                        "Scent": "Citrus, Aromatic",
+                        "Note": "Amalfi Lemon\nLavender"
+                    },
+                    {
+                        "Sensation": "Calming",
+                        "Type": "Middle",
+                        "Scent": "Floral",
+                        "Note": "Orange Flower"
+                    },
+                    {
+                        "Sensation": "Revigorating",
+                        "Type": "Base",
+                        "Scent": "Earthy , Woody",
+                        "Note": "Cederwood\nPatchouli"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "Delivering a powerful punch of cedar, patchouli & lavender, it boasts a seductive composition that can make you feel guilty for stealing the show each time."
+            },
+            {
+                "Sub_Category": "Fruity Gourmand",
+                "Category": "Floral",
+                "Mode": "All Day",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/bomb.webp?v=1718870940",
+                        "Name": "Primary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/Bomb_Notes.webp?v=1721709308",
+                        "Name": "Secondary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/Bomb_Sensation.webp?v=1721709554",
+                        "Name": "Tertiary"
+                    }
+                ],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Women",
+                "Code": "113",
+                "Word_Description_3": "Youthful - Vibrant - Dreamy ",
+                "Segment": "Regular",
+                "Name": "Bomb",
+                "Key_Notes_3": "Passionfruit - Peony - Musk",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "A fragrance that ignites confidence in everyone who wears it, Bomb is the perfect choice for someone looking to make a statement. The name 'Bomb' suggests the explosive and powerful nature of the fragrance, making sure you leave a lasting impression wherever you go. It's undeniably the perfect accessory to complement your daring attitude.",
+                "Notes": [
+                    {
+                        "Sensation": "Youthful",
+                        "Type": "Top",
+                        "Scent": "Tropical , Fruitiness",
+                        "Note": "Apple\nPassion Fruit\nBerry"
+                    },
+                    {
+                        "Sensation": "Vibrant,  Joyful",
+                        "Type": "Middle",
+                        "Scent": "Aldehydic , floral",
+                        "Note": "Rose\nPeony\nLily"
+                    },
+                    {
+                        "Sensation": "Exalting",
+                        "Type": "Base",
+                        "Scent": "Woody",
+                        "Note": "Musk\nCedar"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A sensual blend of rose and passion fruit, ‘Bomb’ delivers an indelible touch of floral essence."
+            },
+            {
+                "Sub_Category": "",
+                "Category": "Oriental",
+                "Mode": "",
+                "Images": [],
+                "Gender": "Male",
+                "Code": "112",
+                "Segment": "Regular",
+                "Name": "Superstar",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Notes": [
+                    {
+                        "Sensation": "",
+                        "Type": "Top",
+                        "Scent": "",
+                        "Note": "Mandarin\nGrapefruit\nApple"
+                    },
+                    {
+                        "Sensation": "",
+                        "Type": "Middle",
+                        "Scent": "",
+                        "Note": "Cinnamon\nRose"
+                    },
+                    {
+                        "Sensation": "",
+                        "Type": "Base",
+                        "Scent": "",
+                        "Note": "Amber\nPatchouli"
+                    }
+                ]
+            },
+            {
+                "Sub_Category": "Ambery Floral",
+                "Category": "Oriental",
+                "Mode": "Night",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/gold_2306ec44-8083-417f-aa57-1dfca0329c5f.webp?v=1718870939",
+                        "Name": "Primary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/gold_notes.webp?v=1721709547",
+                        "Name": "Secondary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/gold_sensation.webp?v=1721709308",
+                        "Name": "Tertiary"
+                    }
+                ],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "111",
+                "Word_Description_3": "Additive - Opulent - Warm",
+                "Segment": "Regular",
+                "Name": "Gold",
+                "Key_Notes_3": "Pistachio - Licorice - Vanilla",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "Gold is a fresh take on frankincense, a traditional component of ancient perfumery. It is a fragrance that's good enough to be the only 'Gold' you'll ever need to wear on a special day. Its name is a tribute to the image of that land of deserts, its glowing sand &amp; the gold that lies beneath it.",
+                "Notes": [
+                    {
+                        "Sensation": "Tempting,  Addictive",
+                        "Type": "Top",
+                        "Scent": "Syrupy , Pulpy Fruity",
+                        "Note": "Pistacchio\nLicorice"
+                    },
+                    {
+                        "Sensation": "Solar, Sophisticated",
+                        "Type": "Middle",
+                        "Scent": "Floral",
+                        "Note": "Ylang Ylang\nOrange Blossom"
+                    },
+                    {
+                        "Sensation": "Warm, Lush",
+                        "Type": "Base",
+                        "Scent": "Creamy , Cedarwood",
+                        "Note": "Cedarwood\n Custard Vanilla"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "Gold is a tribute to tradition, wrapped in plush liquorice and balsamic aroma, topped off with a trace of earthy warmness."
+            },
+            {
+                "Sub_Category": "Leathery woody",
+                "Category": "Woody",
+                "Mode": "Night",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/the_woody.webp?v=1718870939",
+                        "Name": "Primary"
+                    }
+                ],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Men",
+                "Code": "22",
+                "Word_Description_3": "Warm - Smokey - Bold",
+                "Segment": "Regular",
+                "Name": "The Woody",
+                "Key_Notes_3": "Incense - Saffron - Cedarwood",
+                "Pricing": [
+                    {
+                        "100ml": 2499,
+                        "Type": "Airport",
+                        "50ml": 1349,
+                        "30ml": 879,
+                        "100ml HandEngraved": 3299,
+                        "100ml Personalised": 2999
+                    },
+                    {
+                        "100ml": 2299,
+                        "Type": "Mall",
+                        "50ml": 1279,
+                        "30ml": 829,
+                        "100ml HandEngraved": 3099,
+                        "100ml Personalised": 2799
+                    }
+                ],
+                "Long_Description": "Inspired by the aroma of freshly cut wood, this fragrance is a great choice for anyone who loves nature-inspired scents. The Woody's rich aroma is ideal for any season and can be layered with other scents for a more personalized experience. It's name kicks off the nostalgia of sitting by a fireplace, surrounded by the comforting scent of burning wood.",
+                "Notes": [
+                    {
+                        "Sensation": "Warm",
+                        "Type": "Top",
+                        "Scent": "Spicy",
+                        "Note": "Incense\nClove"
+                    },
+                    {
+                        "Sensation": "Bold , Fearless",
+                        "Type": "Middle",
+                        "Scent": "Smokey , Leathery",
+                        "Note": "Saffron"
+                    },
+                    {
+                        "Sensation": "Calming",
+                        "Type": "Base",
+                        "Scent": "Dry Wood , Powdery",
+                        "Note": "Cederwood\nCoumarin"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "An impressive alliance of saffron &, incense; 'Woody' is for the man who commands respect."
+            },
+            {
+                "Sub_Category": "Ambery Woody Fruity",
+                "Category": "Oriental",
+                "Mode": "Night",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/party_smart.webp?v=1718870939",
+                        "Name": "Primary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/party_smart_notes.webp?v=1721709547",
+                        "Name": "Secondary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/party_smart_sensation.webp?v=1721709545",
+                        "Name": "Tertiary"
+                    }
+                ],
+                "Projection": 5,
+                "Longevity": 5,
+                "Gender": "Men",
+                "Code": "108",
+                "Word_Description_3": "Additive - Opulent - Warm",
+                "Segment": "Regular",
+                "Name": "Party Smart",
+                "Key_Notes_3": "Green Apple - Cardamom - Patchouli",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "A perfect companion for those who want to party hard, but also want to smell great while doing it. This fragrance is perfect for clubbing, social gatherings, and other events where you want to make a lasting impression. It's name inspires you to have fun while also making smart choices.",
+                "Notes": [
+                    {
+                        "Sensation": "Lively, Playful",
+                        "Type": "Top",
+                        "Scent": "Tropical , Fruitiness",
+                        "Note": "Green Apple\nLime"
+                    },
+                    {
+                        "Sensation": "Stimulating",
+                        "Type": "Middle",
+                        "Scent": "Crisp , Freshness",
+                        "Note": "Pine\nCardamom"
+                    },
+                    {
+                        "Sensation": "Vibrant, Sultry",
+                        "Type": "Base",
+                        "Scent": "Earthy,  Amber",
+                        "Note": "Patchouli\nBlack Amber"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "A symphony of the sweet tropical sweetness & luscious fresh citrus, this fragrance will simply sweep others off their feet on the dance floor"
+            },
+            {
+                "Sub_Category": "Fruity Ambery",
+                "Category": "Floral",
+                "Mode": "Day",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/fruit_punch_e6f7349a-384a-4764-ac3b-354b8aec8894.webp?v=1718870940",
+                        "Name": "Primary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/Fruit_Punch_Notes.webp?v=1721709555",
+                        "Name": "Secondary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/Fruit_Punch_Sensation.webp?v=1721709555",
+                        "Name": "Tertiary"
+                    }
+                ],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "45",
+                "Word_Description_3": "Candy - Youthful - Vibes",
+                "Segment": "Regular",
+                "Name": "Fruit Punch",
+                "Key_Notes_3": "Passionfruit - Coconut - Vanilla",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "A light and elegant fragrance that can accompany you on a date or a vacation alike. Its name is inspired by the burst of fruity flavor in the scent and will undoubtedly offer a pleasant punch to your senses before settling down.",
+                "Notes": [
+                    {
+                        "Sensation": "Youthful , Flirty",
+                        "Type": "Top",
+                        "Scent": "Juicy,  Fruity",
+                        "Note": "Passionfruit\nStrawberry"
+                    },
+                    {
+                        "Sensation": "Paradise , Edible",
+                        "Type": "Middle",
+                        "Scent": "Tropical , Floral",
+                        "Note": "Ylang-Ylang\nCoconut"
+                    },
+                    {
+                        "Sensation": "Assurance",
+                        "Type": "Base",
+                        "Scent": "Candy",
+                        "Note": "Vanilla\nWhite Musks"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "Invigorate your senses with a subtle hint of passionfruit & strawberry paired with a dash of coconut and white musk."
+            },
+            {
+                "Sub_Category": "Floral Aqua",
+                "Category": "Fresh",
+                "Mode": "Day",
+                "Images": [
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/aqua_marine_17199988-9404-4ac0-87df-cb50ec619aa8.webp?v=1718870939",
+                        "Name": "Primary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/aqua_marine_notes.webp?v=1721709546",
+                        "Name": "Secondary"
+                    },
+                    {
+                        "Url": "https://cdn.shopify.com/s/files/1/0262/8819/3614/files/aqua_marine_sensation.webp?v=1721709545",
+                        "Name": "Tertiary"
+                    }
+                ],
+                "Projection": 4,
+                "Longevity": 3,
+                "Gender": "Men",
+                "Code": "1",
+                "Word_Description_3": "Bright - Crisp - Fresh",
+                "Segment": "Regular",
+                "Name": "Aqua Marine",
+                "Key_Notes_3": "Lemon - Lily - Musk",
+                "Pricing": [
+                    {
+                        "100ml": 1899,
+                        "Type": "Airport",
+                        "50ml": 999,
+                        "30ml": 649,
+                        "100ml HandEngraved": 2699,
+                        "100ml Personalised": 2399
+                    },
+                    {
+                        "100ml": 1699,
+                        "Type": "Mall",
+                        "50ml": 929,
+                        "30ml": 599,
+                        "100ml HandEngraved": 2499,
+                        "100ml Personalised": 2199
+                    }
+                ],
+                "Long_Description": "",
+                "Notes": [
+                    {
+                        "Sensation": "Bright",
+                        "Type": "Top",
+                        "Scent": "Zesty Freshness",
+                        "Note": "Lemon\nBergamot"
+                    },
+                    {
+                        "Sensation": "Rejuvenating",
+                        "Type": "Middle",
+                        "Scent": "Aquatic Floral",
+                        "Note": "Lavender\nLily\nWatermelon"
+                    },
+                    {
+                        "Sensation": "Crisp Aura",
+                        "Type": "Base",
+                        "Scent": "Clean Musk",
+                        "Note": "Musk\nAmber"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "The perfect balance of sweet & salty notes, inspired by a vision of the breathtaking ocean dazzling on a sunny eve."
+            },
+            {
+                "Sub_Category": "Amber Woody",
+                "Category": "Woody",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Unisex",
+                "Code": "CP6",
+                "Word_Description_3": "Elevating - Seductive - Sultry",
+                "Segment": "Cosmopolitan",
+                "Name": "Oud De Beirut",
+                "Key_Notes_3": "Turkish Rose - Oudh - Benzoin",
+                "Pricing": [
+                    {
+                        "100ml": 3699,
+                        "Type": "Airport",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    },
+                    {
+                        "100ml": 3499,
+                        "Type": "Mall",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    }
+                ],
+                "Long_Description": "Transport your senses to the heart of Beirut with our evocative woody perfume. Inspired by the rich tapestry of this vibrant city, the fragrance intertwines with woody floral notes, capturing the essence of historic streets and modern elegance. Immerse yourself in the warmth and sophistication, as this scent pays homage to the timeless beauty of Beirut.",
+                "Notes": [
+                    {
+                        "Sensation": "Elevating",
+                        "Type": "Top",
+                        "Scent": "Powdery Aromatic",
+                        "Note": "Geranium\nViolet"
+                    },
+                    {
+                        "Sensation": "Seductive",
+                        "Type": "Middle",
+                        "Scent": "Aromatic Floral",
+                        "Note": "Turkish Rose\nBulgarian Rose"
+                    },
+                    {
+                        "Sensation": "Sultry Alluring",
+                        "Type": "Base",
+                        "Scent": "Balsamic Spice",
+                        "Note": "Amber\nVanilla\nBenzoin"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "Evoking the warmth and sensuality of a summer night in the heart of Beirut."
+            },
+            {
+                "Sub_Category": "Fruity Floral",
+                "Category": "Floral",
+                "Mode": "Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Women",
+                "Code": "CP5",
+                "Word_Description_3": "Bright - Elegant - Fuzzy",
+                "Segment": "Cosmopolitan",
+                "Name": "Moroccan Rose",
+                "Key_Notes_3": "Litchi - Rose - Vetiver",
+                "Pricing": [
+                    {
+                        "100ml": 3699,
+                        "Type": "Airport",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    },
+                    {
+                        "100ml": 3499,
+                        "Type": "Mall",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    }
+                ],
+                "Long_Description": "Unveiling the garden within the city of adventures, Moroccan Rose is a luxurious blend of fruity, floral and warm tones that elevates as the day progresses. Traversing through the boundaries, we bring you the richness of the best Moroccan flavours&nbsp;into&nbsp;a&nbsp;perfume.",
+                "Notes": [
+                    {
+                        "Sensation": "Lively Bright",
+                        "Type": "Top",
+                        "Scent": "Tropical Fruitiness",
+                        "Note": "Litchi\nRaspberry\nRhubarb"
+                    },
+                    {
+                        "Sensation": "Youthful Elegant",
+                        "Type": "Middle",
+                        "Scent": "Floral Fruity",
+                        "Note": "Rose\nNutmeg\nPeony"
+                    },
+                    {
+                        "Sensation": "Fuzzy Comforting",
+                        "Type": "Base",
+                        "Scent": "Amber woody",
+                        "Note": "Musk\nVetiver\nAmber"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "Dance in Moroccan fantasies with a scent twirling with each of your steps with Moroccan Rose"
+            },
+            {
+                "Sub_Category": "Aromatic Aqua",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Unisex",
+                "Code": "CP4",
+                "Word_Description_3": "Crisp - Bright - Enveloping",
+                "Segment": "Cosmopolitan",
+                "Name": "California Sunshine",
+                "Key_Notes_3": "Bergamot - Salt - Amber",
+                "Pricing": [
+                    {
+                        "100ml": 3699,
+                        "Type": "Airport",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    },
+                    {
+                        "100ml": 3499,
+                        "Type": "Mall",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    }
+                ],
+                "Long_Description": "For the adventurer in you, California Sunshine reflects the freshness of a free soul. The blast of zesty fresh elements from the top note all the way to the base makes you smell refreshing throughout the day. Embrace the wanderlust in you inside out with this perfume.",
+                "Notes": [
+                    {
+                        "Sensation": "Fresh Clean",
+                        "Type": "Top",
+                        "Scent": "Spicy Citrus",
+                        "Note": "Lemon\nBergamot\nPepper"
+                    },
+                    {
+                        "Sensation": "Purifying Freshness",
+                        "Type": "Middle",
+                        "Scent": "Aquatic Floral",
+                        "Note": "White Lily\nSalt\nSea Weed"
+                    },
+                    {
+                        "Sensation": "Enveloping",
+                        "Type": "Base",
+                        "Scent": "Woody Mineral",
+                        "Note": "Cedar\nAmber\nMusk"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "Bask in the radiance of California Sunshine, an ode to the free-spirited essence of the Golden State."
+            },
+            {
+                "Sub_Category": "Floral amber",
+                "Category": "Floral",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Women",
+                "Code": "CP3",
+                "Word_Description_3": "Electrifying - Sensual - Utopic",
+                "Segment": "Cosmopolitan",
+                "Name": "Love in Paris",
+                "Key_Notes_3": "Cardamom - Tuberose- Cacao",
+                "Pricing": [
+                    {
+                        "100ml": 3699,
+                        "Type": "Airport",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    },
+                    {
+                        "100ml": 3499,
+                        "Type": "Mall",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    }
+                ],
+                "Long_Description": "Indulge in the essence of Paris with our captivating floral fragrance. Each spritz evokes the romantic allure of the City of Lights, blending delicate notes of blooming flowers to create a scent that transports you to the enchanting gardens of Paris. Embrace the elegance and sophistication of this floral masterpiece.",
+                "Notes": [
+                    {
+                        "Sensation": "Electrifying",
+                        "Type": "Top",
+                        "Scent": "Aromatic Spice",
+                        "Note": "Cardamom\nBergamot\nBerry"
+                    },
+                    {
+                        "Sensation": "Sensual Ecstacy",
+                        "Type": "Middle",
+                        "Scent": "Spicy Floral",
+                        "Note": "Rose\nCoffee\nTuberose"
+                    },
+                    {
+                        "Sensation": "Utopic Fantasy",
+                        "Type": "Base",
+                        "Scent": "Dark Gourmand",
+                        "Note": "Cacao\nVanilla\nPatchouli"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "The allure of the city of love, this fragrance is a symphony of floral art tracing the beauty and passion of earthy warmness. "
+            },
+            {
+                "Sub_Category": "Citrus Aromatic",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 4,
+                "Gender": "Unisex",
+                "Code": "CP2",
+                "Word_Description_3": "Sparkling - Clean - Intimidating",
+                "Segment": "Cosmopolitan",
+                "Name": "Tokyo Glow",
+                "Key_Notes_3": "Berganot - Orange Blossom - Black Tea",
+                "Pricing": [
+                    {
+                        "100ml": 3699,
+                        "Type": "Airport",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    },
+                    {
+                        "100ml": 3499,
+                        "Type": "Mall",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    }
+                ],
+                "Long_Description": "Immerse yourself in the invigorating essence of our fresh perfume, inspired by the dynamic energy of Tokyo. This fragrance encapsulates the crisp vibrancy of the city, where each breath carries the spirit of modernity and renewal. Just as Tokyo reinvents itself with every sunrise, our perfume captures the exhilarating sense of new beginnings. Let the breezy notes transport you to the bustling streets, awakening your senses to the refreshing and lively atmosphere that defines the cosmopolitan charm of Tokyo.",
+                "Notes": [
+                    {
+                        "Sensation": "Sparkling, Freshness",
+                        "Type": "Top",
+                        "Scent": "Zesty , Citrus",
+                        "Note": "Lemon\nBergamot\nOrange"
+                    },
+                    {
+                        "Sensation": "Clean, Sophisticated",
+                        "Type": "Middle",
+                        "Scent": "Aromatic , Floral",
+                        "Note": "Orange Blossom\nGinger\nCinnamon"
+                    },
+                    {
+                        "Sensation": "Intimidating , Sultry",
+                        "Type": "Base",
+                        "Scent": "Earthy,  Amber",
+                        "Note": "Black Tea\nAmber\nWoody"
+                    }
+                ],
+                "Sillage": 3,
+                "Short_Description": "Experience the luminous energy of Tokyo with Tokyo Glow. "
+            },
+            {
+                "Sub_Category": "Amber Woody",
+                "Category": "Oriental",
+                "Mode": "Night",
+                "Images": [],
+                "Projection": 4,
+                "Longevity": 5,
+                "Gender": "Women",
+                "Code": "CP1",
+                "Word_Description_3": "",
+                "Segment": "Cosmopolitan",
+                "Name": "Roma Noire",
+                "Key_Notes_3": "Plum - Rose - Agarwood",
+                "Pricing": [
+                    {
+                        "100ml": 3699,
+                        "Type": "Airport",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    },
+                    {
+                        "100ml": 3499,
+                        "Type": "Mall",
+                        "50ml": 0,
+                        "30ml": 0,
+                        "100ml HandEngraved": 0,
+                        "100ml Personalised": 0
+                    }
+                ],
+                "Long_Description": "Embark on a sensorial journey through the eternal city with our oriental perfume inspired by Rome. Roma Noire encapsulates the timeless allure and opulence of the city, creating an olfactory masterpiece that resonates with the grandeur and sophistication of Rome. Immerse yourself in the mystique of ancient history and modern elegance, as this perfume pays homage to the rich cultural heritage and alluring spirit of the Italian capital.",
+                "Notes": [
+                    {
+                        "Sensation": "Heavy Seductive",
+                        "Type": "Top",
+                        "Scent": "Fruity Gourmand",
+                        "Note": "Blackcurrant\nPlum\nBerry"
+                    },
+                    {
+                        "Sensation": "Lush Tempting",
+                        "Type": "Middle",
+                        "Scent": "Balsamic Floral",
+                        "Note": "Rose\nHoney"
+                    },
+                    {
+                        "Sensation": "Elevated Alluring",
+                        "Type": "Base",
+                        "Scent": "Earthy Woody Ambery",
+                        "Note": "Agarwood\nBenzoin\nPatchouli"
+                    }
+                ],
+                "Sillage": 4,
+                "Short_Description": "Roma Noire, an intoxicating blend of floral and fruity notes that transports you to the hidden corners of the city."
+            },
+            {
+                "Sub_Category": "Aromatic Citrus Woody",
+                "Category": "Fresh",
+                "Mode": "All Day",
+                "Images": [],
+                "Projection": 5,
+                "Longevity": 4,
+                "Gender": "Men",
+                "Code": "163",
+                "Word_Description_3": "Energetic - Fierce - Levitating",
+                "Segment": "Regular",
+                "Name": "Afterparty",
+                "Key_Notes_3": "Bergamot - Neroli - Vetiver",
+                "Pricing": [
+                    {
+                        "100ml": 2199,
+                        "Type": "Airport",
+                        "50ml": 1199,
+                        "30ml": 759,
+                        "100ml HandEngraved": 2999,
+                        "100ml Personalised": 2699
+                    },
+                    {
+                        "100ml": 1999,
+                        "Type": "Mall",
+                        "50ml": 1129,
+                        "30ml": 709,
+                        "100ml HandEngraved": 2799,
+                        "100ml Personalised": 2499
+                    }
+                ],
+                "Long_Description": "",
+                "Notes": [
+                    {
+                        "Sensation": "Vigor , Energetic",
+                        "Type": "Top",
+                        "Scent": "Zesty, Aromatic",
+                        "Note": "Lemon\nBergamot\nPetit Grain"
+                    },
+                    {
+                        "Sensation": "Decisive , Fierce",
+                        "Type": "Middle",
+                        "Scent": "Aromatic, Floral",
+                        "Note": "Neroli\nJuniper Berry\nIris"
+                    },
+                    {
+                        "Sensation": "Levitating , Utopia",
+                        "Type": "Base",
+                        "Scent": "Woody, Amber",
+                        "Note": "Vetiver\nOakmoss\nDrywood"
+                    }
+                ],
+                "Sillage": 5,
+                "Short_Description": ""
+            }
+        ]
+    },
+    "code": 3000
+}
